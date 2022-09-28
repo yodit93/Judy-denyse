@@ -1,4 +1,11 @@
 #navbar{
-    position :fixed;
-    left: 0;
+    position:absolute;
+    left: 0px;
+    top: 312px;
 }
+@media screen and (min-width: 600px) {
+    body {
+      background-color: white;
+      font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    }
+  }
